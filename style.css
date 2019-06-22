@@ -1,0 +1,38 @@
+#searchbox input {
+	display: block;
+	margin: auto;
+	width: 400px;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	padding: 5px 10px;
+}
+
+#logo_img {
+	display: block;
+	margin: auto;
+	padding-top: 100px
+}
+
+#top_nav {
+	position: fixed;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+#bottom_nav {
+	position: fixed;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: 0;
+	background-color: #CCCCCC;
+	width: 100%;
+}
+
+#top_nav table {
+	width: 100%;
+}
